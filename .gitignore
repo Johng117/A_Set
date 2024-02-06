@@ -9,6 +9,3 @@ node_modules/
 # Ignore build folder
 /dist
 /build
-
-# Ignore logs
-*.log
